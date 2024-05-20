@@ -1,5 +1,7 @@
 library flutter_design_system;
 
+export './src/widgets.dart';
+
 /// A Calculator.
 class Calculator {
   /// Returns [value] plus 1.
